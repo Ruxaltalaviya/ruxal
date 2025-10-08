@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+preview.wolfthemes.store	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+preview.wolfthemes.store	TRUE	/	FALSE	1999999999	wp_woocommerce_session_dba5fff414374b89b2e9b3a2b0f480c5	t_ff04c89f91a4347f79602e6ea502bd%7C1758285006%7C1758198606%7C%24generic%24ix4nF29kr5IqQIIJM4WAKVtVMIBVm6c4G2GRF9Gp
+preview.wolfthemes.store	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	9f0c66aa16fc881eb9e6d8abac10e146
+

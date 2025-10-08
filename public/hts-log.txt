@@ -1,0 +1,280 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 17 Sep 2025 18:00:56 at https://preview.wolfthemes.store/soundkraft/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.wolfthemes.store/soundkraft/ -O1 "C:\Users\Admin\Desktop\music\music" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:03:50	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://preview.wolfthemes.store/soundkraft/)
+18:10:11	Warning: 	Found for https://preview.wolfthemes.store/soundkraft/checkout/
+18:10:11	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/checkout/ to https://preview.wolfthemes.store/soundkraft/cart/
+18:21:35	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/newsletter/ (from https://preview.wolfthemes.store/soundkraft/)
+18:22:44	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/job-list/ (from https://preview.wolfthemes.store/soundkraft/)
+18:22:44	Error: 	"Bad Request" (400) at link https://preview.wolfthemes.store/soundkraft/wp-admin/admin-ajax.php (from https://preview.wolfthemes.store/soundkraft/)
+18:22:46	Warning: 	Warning: store application/octet-stream without scan: C:/Users/Admin/Desktop/music/music/preview.wolfthemes.store/app/plugins/wolf-playlist-manager/assets/css/fonts/svg/bandcamp.svg
+18:22:46	Warning: 	Warning: store application/octet-stream without scan: C:/Users/Admin/Desktop/music/music/preview.wolfthemes.store/app/plugins/wolf-playlist-manager/assets/css/fonts/svg/bandcamp_dark.svg
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/ajax-loader@2x.gif (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/chosen-sprite.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/icons/credit-cards/visa.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/icons/credit-cards/mastercard.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/icons/credit-cards/laser.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/icons/credit-cards/diners.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/icons/credit-cards/maestro.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/icons/credit-cards/jcb.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/icons/credit-cards/amex.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/woocommerce/icons/credit-cards/discover.png (from https://preview.wolfthemes.store/app/themes/soundkraft/assets/css/main.css?ver=1.0.0)
+18:22:47	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=64
+18:22:47	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=64 to https://preview.wolfthemes.store/soundkraft/rock-metal-band/
+18:23:22	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=150
+18:23:22	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=150 to https://preview.wolfthemes.store/soundkraft/label-artists/
+18:24:11	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=413
+18:24:11	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=413 to https://preview.wolfthemes.store/soundkraft/home-classic/
+18:24:20	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=445
+18:24:20	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=445 to https://preview.wolfthemes.store/soundkraft/recording-studio/
+18:25:01	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/purchase/
+18:25:01	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/purchase/ to https://1.envato.market/e12Qn1
+18:25:05	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=13702
+18:25:05	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=13702 to https://preview.wolfthemes.store/soundkraft/shop-home/
+18:25:26	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3929
+18:25:26	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3929 to https://preview.wolfthemes.store/soundkraft/solo-artist/
+18:25:34	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=290
+18:25:34	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=290 to https://preview.wolfthemes.store/soundkraft/home-minimal/
+18:25:36	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3996
+18:25:36	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3996 to https://preview.wolfthemes.store/soundkraft/one-page/
+18:25:50	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=136
+18:25:50	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=136 to https://preview.wolfthemes.store/soundkraft/landing/
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/elementor/thumbs/Rock-Metal-Band-â-Soundkraft-r8zcfo6i2mbl4sfcmigvvj4ye94vitwdicbmeiz6po.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/elementor/thumbs/Home-Classic-â-Soundkraft-r8zcpcwmi5kys4ct277h2l4ys7e1ujcsiacrg6m4l8.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/elementor/thumbs/Label-Artists-â-Soundkraft-r8zd51tmll2alrk8fhe974kzss1ncmngzyfkvhcipo.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/elementor/thumbs/Solo-Artist-â-Soundkraft-r8zd4uax2ws00vv5ne58n6hb1p2pn1tmax7p19no3g.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/elementor/thumbs/Recording-Studio-â-Soundkraft-r8zd57gnqla0jfc1iju0m35rd39umt9v0qchr545oc.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/elementor/thumbs/Home-Minimal-â-Soundkraft-r8zd4y29u8x5bbpp1frqx5j5f8k6hu8jnftmydi3ek.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/elementor/thumbs/Shop-Home-â-Soundkraft-r8zd5e1j2fj0sp2hg4oeljhzisdf4ozzdmww42uegs.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/2025/07/The-Band-â-Soundkraft-1456x816.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/2025/07/About-â-Soundkraft-1456x816.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/2025/07/Coming-Soon-â-Soundkraft-1456x816.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/2025/07/Contact-â-Soundkraft-1456x816.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:25:50	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/app/uploads/sites/59/2025/07/Error-404-â-Soundkraft-1456x816.jpg (from https://preview.wolfthemes.store/soundkraft/landing/)
+18:26:49	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=391
+18:26:49	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=391 to https://preview.wolfthemes.store/soundkraft/product/logo-t-shirt/
+18:26:57	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=392
+18:26:57	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=392 to https://preview.wolfthemes.store/soundkraft/product/logo-hoodie/
+18:27:04	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=5932
+18:27:04	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=5932 to https://preview.wolfthemes.store/soundkraft/product/digital-download/
+18:27:05	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=390
+18:27:05	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=390 to https://preview.wolfthemes.store/soundkraft/product/limited-edition-digipack/
+18:27:26	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=124
+18:27:26	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=124 to https://preview.wolfthemes.store/soundkraft/product/music-language-vinyl/
+18:27:35	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=7
+18:27:35	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=7 to https://preview.wolfthemes.store/soundkraft/cart/
+18:27:38	Error: 	"Bad Request" (400) at link https://preview.wolfthemes.store/soundkraft/wp-admin/admin-ajax.php?action=rest-nonce (from https://preview.wolfthemes.store/soundkraft/cart/)
+18:27:38	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=9
+18:27:38	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=9 to https://preview.wolfthemes.store/soundkraft/my-account/
+18:27:41	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=153
+18:27:41	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=153 to https://preview.wolfthemes.store/soundkraft/portfolio-standard/
+18:27:44	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3101
+18:27:44	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3101 to https://preview.wolfthemes.store/soundkraft/portfolio-gallery/
+18:27:46	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3102
+18:27:46	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3102 to https://preview.wolfthemes.store/soundkraft/portfolio-filtered/
+18:27:53	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3147
+18:27:53	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3147 to https://preview.wolfthemes.store/soundkraft/work-masonry/
+18:27:56	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3137
+18:27:56	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3137 to https://preview.wolfthemes.store/soundkraft/portfolio-carousel/
+18:27:58	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2321
+18:27:58	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2321 to https://preview.wolfthemes.store/soundkraft/work/big-images/
+18:28:00	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2322
+18:28:00	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2322 to https://preview.wolfthemes.store/soundkraft/work/small-images/
+18:28:01	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2323
+18:28:01	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2323 to https://preview.wolfthemes.store/soundkraft/work/big-gallery/
+18:28:02	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2324
+18:28:02	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2324 to https://preview.wolfthemes.store/soundkraft/work/small-gallery/
+18:28:04	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2329
+18:28:04	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2329 to https://preview.wolfthemes.store/soundkraft/work/big-video/
+18:28:05	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2330
+18:28:05	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2330 to https://preview.wolfthemes.store/soundkraft/work/small-video/
+18:28:06	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2328
+18:28:06	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2328 to https://preview.wolfthemes.store/soundkraft/work/small-slider/
+18:28:10	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2327
+18:28:10	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2327 to https://preview.wolfthemes.store/soundkraft/work/big-slider/
+18:28:12	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2326
+18:28:12	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2326 to https://preview.wolfthemes.store/soundkraft/work/small-masonry/
+18:28:13	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2325
+18:28:13	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2325 to https://preview.wolfthemes.store/soundkraft/work/big-masonry/
+18:28:15	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=622
+18:28:15	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=622 to https://preview.wolfthemes.store/soundkraft/work/beyond-the-music/
+18:28:16	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=623
+18:28:16	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=623 to https://preview.wolfthemes.store/soundkraft/work/lights-in-the-night/
+18:28:18	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3143
+18:28:18	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3143 to https://preview.wolfthemes.store/soundkraft/artist-standard/
+18:29:02	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3144
+18:29:02	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3144 to https://preview.wolfthemes.store/soundkraft/artist-gallery/
+18:29:05	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3145
+18:29:05	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3145 to https://preview.wolfthemes.store/soundkraft/artist-masonry/
+18:29:20	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3146
+18:29:20	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3146 to https://preview.wolfthemes.store/soundkraft/artist-carousel/
+18:29:24	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/the-velvet-hounds/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/the-velvet-hounds/)
+18:29:24	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3848
+18:29:24	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3848 to https://preview.wolfthemes.store/soundkraft/artist/the-velvet-hounds/
+18:29:32	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/dj-zephyr/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/dj-zephyr/)
+18:29:32	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3849
+18:29:32	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3849 to https://preview.wolfthemes.store/soundkraft/artist/dj-zephyr/
+18:29:33	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/luna-tides/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/luna-tides/)
+18:29:33	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3850
+18:29:33	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3850 to https://preview.wolfthemes.store/soundkraft/artist/luna-tides/
+18:29:35	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/jade-monroe/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/jade-monroe/)
+18:29:35	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3855
+18:29:35	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3855 to https://preview.wolfthemes.store/soundkraft/artist/jade-monroe/
+18:29:37	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/the-midnight-syndicate/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/the-midnight-syndicate/)
+18:29:37	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3857
+18:29:37	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3857 to https://preview.wolfthemes.store/soundkraft/artist/the-midnight-syndicate/
+18:29:40	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=98
+18:29:40	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=98 to https://preview.wolfthemes.store/soundkraft/about/
+18:29:42	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=102
+18:29:42	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=102 to https://preview.wolfthemes.store/soundkraft/the-band/
+18:29:43	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=97
+18:29:43	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=97 to https://preview.wolfthemes.store/soundkraft/contact/
+18:29:44	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=100
+18:29:44	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=100 to https://preview.wolfthemes.store/soundkraft/coming-soon/
+18:29:44	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=101
+18:29:44	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=101 to https://preview.wolfthemes.store/soundkraft/maintenance/
+18:29:44	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=99
+18:29:44	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=99 to https://preview.wolfthemes.store/soundkraft/error-404/
+18:29:46	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=284
+18:29:46	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=284 to https://preview.wolfthemes.store/soundkraft/post-list/
+18:31:50	Warning: 	Retry after error 500 (Internal Server Error) at link https://preview.wolfthemes.store/soundkraft/author/wolfthemes/ (from https://preview.wolfthemes.store/soundkraft/post-list/)
+18:31:55	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=285
+18:31:55	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=285 to https://preview.wolfthemes.store/soundkraft/post-grid/
+18:31:58	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2279
+18:31:58	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2279 to https://preview.wolfthemes.store/soundkraft/2024/08/22/the-story-behind-our-new-single/
+18:31:58	Error: 	"Method Not Allowed" (405) at link https://preview.wolfthemes.store/soundkraft/xmlrpc.php (from https://preview.wolfthemes.store/soundkraft/2024/08/22/the-story-behind-our-new-single/)
+18:32:00	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2271
+18:32:00	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2271 to https://preview.wolfthemes.store/soundkraft/2024/08/22/5-songs-that-inspired-poizes-unique-sound/
+18:32:01	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2277
+18:32:01	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2277 to https://preview.wolfthemes.store/soundkraft/2024/09/22/connects-through-music/
+18:32:03	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2273
+18:32:03	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2273 to https://preview.wolfthemes.store/soundkraft/2024/08/22/new-ep-out-now-everything-you-need-to-know/
+18:32:04	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=2274
+18:32:04	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=2274 to https://preview.wolfthemes.store/soundkraft/2024/09/22/tour-recap-our-favorite-moments-from-the-road/
+18:32:06	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=4007
+18:32:06	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=4007 to https://preview.wolfthemes.store/soundkraft/event-list/
+18:32:34	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=4008
+18:32:34	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=4008 to https://preview.wolfthemes.store/soundkraft/event-grid/
+18:32:36	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=4009
+18:32:36	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=4009 to https://preview.wolfthemes.store/soundkraft/event-accordion/
+18:32:39	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3871
+18:32:39	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3871 to https://preview.wolfthemes.store/soundkraft/event/mellow-muse/
+18:32:52	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=245
+18:32:52	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=245 to https://preview.wolfthemes.store/soundkraft/releases-standard/
+18:32:55	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=252
+18:32:55	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=252 to https://preview.wolfthemes.store/soundkraft/releases-gallery/
+18:32:59	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=253
+18:32:59	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=253 to https://preview.wolfthemes.store/soundkraft/releases-animated-cover/
+18:33:02	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=254
+18:33:02	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=254 to https://preview.wolfthemes.store/soundkraft/releases-carousel/
+18:33:06	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3148
+18:33:06	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3148 to https://preview.wolfthemes.store/soundkraft/release-filtered/
+18:33:15	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/ask-and-receive/feed/ (from https://preview.wolfthemes.store/soundkraft/release/ask-and-receive/)
+18:33:15	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=12670
+18:33:15	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=12670 to https://preview.wolfthemes.store/soundkraft/release/ask-and-receive/
+18:33:17	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/leader/feed/ (from https://preview.wolfthemes.store/soundkraft/release/leader/)
+18:33:17	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=9235
+18:33:17	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=9235 to https://preview.wolfthemes.store/soundkraft/release/leader/
+18:33:18	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/battle-with-myself/feed/ (from https://preview.wolfthemes.store/soundkraft/release/battle-with-myself/)
+18:33:18	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=12689
+18:33:18	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=12689 to https://preview.wolfthemes.store/soundkraft/release/battle-with-myself/
+18:33:20	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/crocodile-tears/feed/ (from https://preview.wolfthemes.store/soundkraft/release/crocodile-tears/)
+18:33:20	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=12636
+18:33:20	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=12636 to https://preview.wolfthemes.store/soundkraft/release/crocodile-tears/
+18:33:23	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/blue-moon/feed/ (from https://preview.wolfthemes.store/soundkraft/release/blue-moon/)
+18:33:23	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=12657
+18:33:23	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=12657 to https://preview.wolfthemes.store/soundkraft/release/blue-moon/
+18:33:25	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/priority/feed/ (from https://preview.wolfthemes.store/soundkraft/release/priority/)
+18:33:25	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=9232
+18:33:25	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=9232 to https://preview.wolfthemes.store/soundkraft/release/priority/
+18:33:27	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/carefree-fight/feed/ (from https://preview.wolfthemes.store/soundkraft/release/carefree-fight/)
+18:33:27	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=9230
+18:33:27	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=9230 to https://preview.wolfthemes.store/soundkraft/release/carefree-fight/
+18:33:30	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/invisible-contract/feed/ (from https://preview.wolfthemes.store/soundkraft/release/invisible-contract/)
+18:33:30	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=9231
+18:33:30	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=9231 to https://preview.wolfthemes.store/soundkraft/release/invisible-contract/
+18:33:32	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=14
+18:33:32	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=14 to https://preview.wolfthemes.store/soundkraft/events/
+18:33:48	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=13448
+18:33:48	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=13448 to https://preview.wolfthemes.store/soundkraft/product/poster/
+18:33:49	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=12
+18:33:49	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=12 to https://preview.wolfthemes.store/soundkraft/discography/
+18:33:54	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3870
+18:33:54	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3870 to https://preview.wolfthemes.store/soundkraft/event/dj-sapphire-guests/
+18:33:55	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3874
+18:33:55	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3874 to https://preview.wolfthemes.store/soundkraft/event/velvet-pulse-guests-0900pm-chicago/
+18:33:57	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3873
+18:33:57	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3873 to https://preview.wolfthemes.store/soundkraft/event/sonic-drift-binacles/
+18:33:58	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3872
+18:33:58	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3872 to https://preview.wolfthemes.store/soundkraft/event/echo-nova-distances/
+18:34:16	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=4014
+18:34:16	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=4014 to https://preview.wolfthemes.store/soundkraft/2024/08/15/from-demo-to-master-the-evolution-of-mind-cap/
+18:34:18	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=4016
+18:34:18	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=4016 to https://preview.wolfthemes.store/soundkraft/2024/08/15/how-we-craft-our-signature-rock-vibes/
+18:34:19	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=4017
+18:34:19	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=4017 to https://preview.wolfthemes.store/soundkraft/2024/08/15/exclusive-preview-upcoming-release-teasers/
+18:34:34	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/echo-drift/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/echo-drift/)
+18:34:34	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3854
+18:34:34	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3854 to https://preview.wolfthemes.store/soundkraft/artist/echo-drift/
+18:34:38	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=13592
+18:34:38	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=13592 to https://preview.wolfthemes.store/soundkraft/product/full-design-tee/
+18:35:00	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3085
+18:35:00	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3085 to https://preview.wolfthemes.store/soundkraft/work/dancing-under-the-stars/
+18:35:01	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=13
+18:35:01	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=13 to https://preview.wolfthemes.store/soundkraft/portfolio/
+18:35:10	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3881
+18:35:10	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3881 to https://preview.wolfthemes.store/soundkraft/event/aurora-fade/
+18:35:12	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/spoils-of-rhythm/feed/ (from https://preview.wolfthemes.store/soundkraft/release/spoils-of-rhythm/)
+18:35:12	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=9229
+18:35:12	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=9229 to https://preview.wolfthemes.store/soundkraft/release/spoils-of-rhythm/
+18:35:14	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=13587
+18:35:14	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=13587 to https://preview.wolfthemes.store/soundkraft/product/sk-limited/
+18:35:55	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/sienna-ray/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/sienna-ray/)
+18:35:55	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3853
+18:35:55	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3853 to https://preview.wolfthemes.store/soundkraft/artist/sienna-ray/
+18:35:59	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/black-horizon/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/black-horizon/)
+18:35:59	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3851
+18:35:59	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3851 to https://preview.wolfthemes.store/soundkraft/artist/black-horizon/
+18:36:02	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/ella-nova/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/ella-nova/)
+18:36:02	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3847
+18:36:02	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3847 to https://preview.wolfthemes.store/soundkraft/artist/ella-nova/
+18:36:09	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/artist/melow-muse/feed/ (from https://preview.wolfthemes.store/soundkraft/artist/melow-muse/)
+18:36:09	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3790
+18:36:09	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3790 to https://preview.wolfthemes.store/soundkraft/artist/melow-muse/
+18:36:10	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=11
+18:36:10	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=11 to https://preview.wolfthemes.store/soundkraft/artists/
+18:36:38	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=5826
+18:36:38	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=5826 to https://preview.wolfthemes.store/soundkraft/2024/10/28/behind-the-scenes-a-week-in-the-life-of-soundkraft/
+18:36:40	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=5825
+18:36:40	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=5825 to https://preview.wolfthemes.store/soundkraft/2024/10/28/studio-diary-how-we-recorded-our-latest-track/
+18:36:41	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=4015
+18:36:41	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=4015 to https://preview.wolfthemes.store/soundkraft/2024/10/15/memorable-moments-from-sk-live-shows/
+18:36:43	Warning: 	Retry after error 500 (Internal Server Error) at link https://preview.wolfthemes.store/soundkraft/author/wolfthemes/ (from https://preview.wolfthemes.store/soundkraft/post-list/)
+18:36:43	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3880
+18:36:43	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3880 to https://preview.wolfthemes.store/soundkraft/event/innovative-visions/
+18:36:44	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3879
+18:36:44	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3879 to https://preview.wolfthemes.store/soundkraft/event/palette-of-dreams/
+18:36:46	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3878
+18:36:46	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3878 to https://preview.wolfthemes.store/soundkraft/event/midnight-echo/
+18:36:47	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3877
+18:36:47	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3877 to https://preview.wolfthemes.store/soundkraft/event/neon-beat-collective-dj-blob/
+18:36:51	Error: 	"Not Found" (404) at link https://preview.wolfthemes.store/soundkraft/release/i-see-you/feed/ (from https://preview.wolfthemes.store/soundkraft/release/i-see-you/)
+18:36:51	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=6086
+18:36:51	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=6086 to https://preview.wolfthemes.store/soundkraft/release/i-see-you/
+18:36:52	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3875
+18:36:52	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3875 to https://preview.wolfthemes.store/soundkraft/event/lunar-vibes/
+18:36:54	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3876
+18:36:54	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3876 to https://preview.wolfthemes.store/soundkraft/event/stellar-groove/
+18:37:02	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3081
+18:37:02	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3081 to https://preview.wolfthemes.store/soundkraft/work/whispers-in-the-wind/
+18:37:04	Warning: 	Moved Permanently for https://preview.wolfthemes.store/soundkraft/?p=3078
+18:37:04	Warning: 	File has moved from https://preview.wolfthemes.store/soundkraft/?p=3078 to https://preview.wolfthemes.store/soundkraft/work/chasing-the-beat/
+18:37:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://preview.wolfthemes.store/soundkraft/author/wolfthemes/ (from https://preview.wolfthemes.store/soundkraft/post-list/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 minutes 9 seconds : 1948 links scanned, 1788 files written (195958502 bytes overall) [71356339 bytes received at 32898 bytes/sec], 155556954 bytes transferred using HTTP compression in 1139 files, ratio 16%, 21.0 requests per connection
+(49 errors, 220 warnings, 0 messages)
