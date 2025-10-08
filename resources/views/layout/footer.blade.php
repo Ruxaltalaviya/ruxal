@@ -38,8 +38,8 @@
                             <li class="elementor-icon-list-item"> <a href="{{ route('about')}}">
                                     <span class="elementor-icon-list-text">About Us</span> </a>
                             </li>
-                            <li class="elementor-icon-list-item"> <a href="{{ route('blog')}}">
-                                <span class="elementor-icon-list-text">Blog</span> </a>
+                            <li class="elementor-icon-list-item"> <a href="{{ route('event')}}">
+                                <span class="elementor-icon-list-text">event</span> </a>
                         </li>
                           
                         </ul>

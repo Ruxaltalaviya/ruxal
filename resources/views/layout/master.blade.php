@@ -34,6 +34,7 @@
     <link rel='stylesheet' id='simplebar-css'
         href='{{ asset('preview.wolfthemes.store/app/plugins/wolf-playlist-manager/assets/css/simplebar9c92.css?ver=4.2.3')}}'
         type='text/css' media='all' />
+        <link rel="stylesheet" href="{{ asset('preview.wolfthemes.store/app/themes/soundkraft/assets/css/main8a54.css?ver=1.0.0') }}">
     <link rel='stylesheet' id='wpm-css'
         href='{{ asset('preview.wolfthemes.store/app/plugins/wolf-playlist-manager/assets/css/wpm.minedfb.css?ver=1.3.8')}}'
         type='text/css' media='all' />
@@ -1466,7 +1467,7 @@
         href='{{ asset('preview.wolfthemes.store/app/themes/soundkraft/assets/css/main8a54.css?ver=1.0.0')}}'
         type='text/css' media='all' />
     <style id='soundkraft-style-inline-css' type='text/css'>
-        /* Color Scheme */
+              
         html {
             --background-color: #212720 !important;
             --foreground-color: #f4f4f4 !important;
@@ -2658,7 +2659,10 @@
                             <a href="{{route('contact')}}">Contact Us</a>
                         </li>
                         <li class="menu-item menu-item-type-custom menu-item-object-custom">
-                            <a href="{{ route('blog') }}">Blog</a>
+                            <a href="{{ route('event') }}">event</a>
+                        </li>
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom">
+                            <a href="{{ route('store') }}">Store</a>
                         </li>
                     </ul>
                     
@@ -2697,36 +2701,12 @@
     <div class="site-container">
         <div id="page" class="hfeed site">
             <div id="page-content">
-                <header id="masthead" class="site-header clearfix" itemscope itemtype="http://schema.org/WPHeader">
-                    <p class="site-name" itemprop="headline">Soundkraft</p>
-                    <p class="site-description" itemprop="description"></p>
-                    <div id="header-content">
 
+                {{-- HEADER --}}
+                @include('layout.header')
 
-                        {{-- HEADER --}}
-
-                        @include('layout.header')
-
-                        {{-- END HEADER --}}
-
-                        <div id="mobile-navigation" class="site--nav">
-                            <div id="mobile-bar" class="nav-bar">
-                                <div class="flex-mobile-wrap">
-                                    <div class="logo-container"> <a href="{{route('home')}}"></a>
-                                        <div class="logo loading-anim-logo">S</div>
-                                        <div class="secondary-logo">oundkraft</div>
-                                    </div>
-                                    <div class="cta-container"></div>
-                                    <div class="hamburger-container"> <button
-                                            class="hamburger-link toggle-mobile-menu unbutton side-panel-hamburger">
-                                            <span class="hamburger-btn__hamburger"> <span
-                                                    class="hamburger-btn__span hbgl--1"></span> <span
-                                                    class="hamburger-btn__span hbgl--3"></span> </span> </button></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </header>
+                {{-- END HEADER --}}
+               
                 <div id="main" class="site-main clearfix">
                     <div id="panel-closer-overlay" class="panel-closer-overlay toggle-side-panel toggle-cart"></div>
                     <div class="site-content">

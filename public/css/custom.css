@@ -307,70 +307,160 @@
         --padding-right: 0px;
     }
 }
-.about-page {background:#000;color:#fff;font-family:'Poppins',sans-serif;overflow-x:hidden;}
-section{padding:80px 8%;position:relative;}
-h2{color:#facc15;margin-bottom:20px;}
 
-/* HERO */
-.hero-section{height:100vh;background:url('/images/credits @sahilonweb-03 (1).jpg')center/cover no-repeat;display:flex;align-items:center;justify-content:center;}
-.hero-overlay{position:absolute;inset:0;background:rgba(0,0,0,0.6);}
-.hero-text{text-align:center;z-index:2;}
-.hero-text h1{font-size:70px;color:#facc15;animation:glow 2s infinite alternate;}
-@keyframes glow{to{text-shadow:0 0 30px #facc15;}}
-.subtitle{font-size:20px;margin-top:10px;}
-.hero-tagline{font-style:italic;opacity:.8}
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #000;
+    color: #fff;
+}
 
-/* SPLIT SECTIONS */
-.split-section{display:flex;flex-wrap:wrap;align-items:center;gap:40px;}
-.split-section.reverse{flex-direction:row-reverse;}
-.split-text{flex:1;min-width:300px;font-size:16px;line-height:1.7;}
-.split-image{flex:1;min-width:300px;text-align:center;}
-.split-image img{width:100%;max-width:500px;border-radius:10px;box-shadow:0 0 20px rgba(255,255,255,0.1);}
+section {
+    padding: 60px 10%;
+}
 
-/* BACKGROUND SECTIONS */
-.with-bg{background-size:cover;background-position:center;color:#fff;}
-.with-bg .overlay{position:absolute;inset:0;background:rgba(0,0,0,0.7);}
-.with-bg .content{position:relative;z-index:2;}
+p {
+    line-height: 1.7;
+    color: #d8d8d8;
+}
 
-/* MIXTAPE */
-.full-bg{background-size:cover;background-position:center;position:relative;text-align:center;}
-.full-bg .overlay{position:absolute;inset:0;background:rgba(0,0,0,0.7);}
-.mixtape-text{position:relative;z-index:2;max-width:800px;margin:auto;}
 
-/* ALBUM GRID */
-.album-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:25px;}
-.album-card{background:#111;border-radius:10px;overflow:hidden;transition:.3s;}
-.album-card:hover{transform:translateY(-10px);background:#222;}
-.album-card img{width:100%;height:220px;object-fit:cover;}
-.album-card h3{margin:10px 0;color:#facc15;}
-.album-card p{font-size:14px;opacity:.8}
+.hero::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+}
 
-/* SHOWS */
-.show-gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;margin-bottom:20px;}
-.show-gallery img{width:100%;border-radius:8px;transition:.4s;}
-.show-gallery img:hover{transform:scale(1.05);}
-.show-list{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;}
-.show-list span{background:#111;padding:10px 20px;border-radius:25px;font-size:14px;}
+.hero-content {
+    position: relative;
+    z-index: 1;
+}
 
-/* default: visible if no JS (prevents blank page) */
-[data-animate] {
-    opacity: 1;
-    transform: none;
-    transition: none;
-  }
-  
-  /* if JS enabled, hide by default and animate in */
-  .has-js [data-animate] {
-    opacity: 0;
-    transform: translateY(30px);
-    transition: all .8s ease-out;
-  }
-  
-  /* revealed state */
-  .has-js [data-animate].visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-  
-@media(max-width:768px){.hero-text h1{font-size:48px;}section{padding:60px 5%;}.split-section{flex-direction:column;}}
+.hero h1 {
+    font-size: 70px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
 
+.hero h3 {
+    font-size: 22px;
+    color: #eee;
+    font-weight: 400;
+}
+
+.socials a {
+    color: #fb9df3;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.socials a:hover {
+    color: #fff;
+}
+
+/* About */
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 40px;
+}
+
+.about img {
+    width: 400px;
+    max-width: 100%;
+    border-radius: 15px;
+}
+
+.about-text {
+    flex: 1;
+}
+
+/* Highlights */
+.highlights {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 30px;
+    text-align: center;
+}
+
+.highlight {
+    background: #111;
+    padding: 20px;
+    border-radius: 12px;
+    transition: 0.3s;
+    border: 1px solid #222;
+}
+
+.highlight:hover {
+    transform: translateY(-5px);
+    border-color: #fb9df3;
+}
+
+/* Brandwork / Mixtape / Stats / Discography */
+.grid-2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+    align-items: center;
+}
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    text-align: center;
+    gap: 30px;
+}
+
+.stat h3 {
+    font-size: 28px;
+    color: #fb9df3;
+    margin-bottom: 5px;
+}
+
+/* Timeline */
+.timeline {
+    position: relative;
+    border-left: 3px solid #fb9df3;
+    padding-left: 30px;
+}
+
+.timeline li {
+    margin: 25px 0;
+    line-height: 1.7;
+    position: relative;
+}
+
+.timeline li::before {
+    content: '';
+    position: absolute;
+    left: -11px;
+    top: 8px;
+    width: 14px;
+    height: 14px;
+    background: #fb9df3;
+    border-radius: 50%;
+}
+
+/* Footer */
+footer {
+    background: #111;
+    text-align: center;
+    padding: 40px 20px;
+    color: #bbb;
+    font-size: 14px;
+}
+
+@media(max-width:768px) {
+    .hero h1 {
+        font-size: 48px;
+    }
+
+    .about {
+        flex-direction: column;
+        text-align: center;
+    }
+}
