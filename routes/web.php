@@ -17,4 +17,7 @@ Route::get('/event', function () {
 Route::get('/store', function () {
     return view('layout.store');
 })->name('store');
+Route::get('/blog', function () {
+    return view('layout.blog');
+})->name('blog');
 

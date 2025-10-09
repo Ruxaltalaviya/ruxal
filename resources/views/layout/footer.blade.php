@@ -88,11 +88,17 @@
                     data-id="961840d" data-element_type="widget" id="bottom-logo"
                     data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h5 class="elementor-heading-title elementor-size-default">
-                            Sound<strong>Kraft</strong></h5>
+                        <h6 class="elementor-heading-title elementor-size-default ">
+                            SIY<strong class="ash">AAHI</strong></h6>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+<style>
+    .ash{
+        text-shadow: 0 0 10px #fff, 0 0 20px #ff0, 0 0 30px #f0f;
+        color: red;
+    }
+</style>

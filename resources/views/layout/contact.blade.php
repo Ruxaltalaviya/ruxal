@@ -35,7 +35,8 @@
                                         hi? Let’s connect.</h2>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
+                    
                     </div>
                     <div data-scroll-custom-offset="" data-scroll-custom-duration=""
                         data-scroll-css-progress="" data-scroll-class="locoscroll-animate"

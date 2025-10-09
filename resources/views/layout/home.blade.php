@@ -7,19 +7,15 @@
                 <div class="page-entry-content clearfix">
                     <div data-elementor-type="wp-page" data-elementor-id="31" class="elementor elementor-31">
                         <div class="locoscroll-bg-animated wolf-core-elementor-row wolf-core-font- elementor-element elementor-element-c58f5d2 e-con-full locoscroll-bg-frame e-flex e-con e-parent"
-                            style="opacity:0;" data-scroll="" data-scroll-css-progress=" "
-                            data-bg-url="{{asset('images/credits @sahilonweb-03 (1).jpg')}}" data-scroll-custom-offset=""
-                            data-scroll-custom-duration="" data-scroll-class="locoscroll-animate"
-                            data-scroll-entrance-animation="" data-font-skin="" data-color-tone="" data-id="c58f5d2"
-                            data-element_type="container"
-                            data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                            <div class="horizontal-scrolling-heading elementor-element elementor-element-75bf478 soundkraft-big-text-yes elementor-widget elementor-widget-heading"
-                                data-id="75bf478" data-element_type="widget" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h1 class="elementor-heading-title elementor-size-default">
-                                        Music as Language</h1>
-                                </div>
-                            </div>
+                            style="opacity:0;overflow: hidden;object-fit:cover" data-scroll="" data-scroll-css-progress=" "
+                            data-scroll-custom-offset="" data-scroll-custom-duration=""
+                            data-scroll-class="locoscroll-animate" data-scroll-entrance-animation="" data-font-skin=""
+                            data-color-tone="" data-id="c58f5d2" data-element_type="container">
+                            <!-- 🔹 Background Video -->
+                            <video autoplay muted loop playsinline class="hero-bg-video">
+                                <source src="{{ asset('videos/RUFUS 1.mp4') }}" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
                         </div>
                         <div data-scroll-custom-offset="" data-scroll-custom-duration="" data-scroll-css-progress=""
                             data-scroll-class="locoscroll-animate" data-scroll-entrance-animation=""
@@ -36,7 +32,7 @@
                                         <div class="elementor-widget-container">
                                             <h2 class="elementor-heading-title elementor-size-default">
                                                 High-energy. Raw talent. Unfiltered sound.
-                                                Welcome to the official site of Soundkraft —
+                                                Welcome to the official site of Siyaahi —
                                                 where music lives loud and real.</h2>
                                         </div>
                                     </div>
@@ -59,20 +55,21 @@
                                                             content="release/crocodile-tears/index.html">
                                                         <meta itemprop="name" content="Crocodile Tears">
                                                         <meta itemprop="image"
-                                                            content="{{asset('images/real_2-1024x1024.jpg')}}">
+                                                            content="{{asset('images/__DSC0017 (102)-NEF_DxO_DeepPRIMEXD.jpg')}}">
                                                         <meta itemprop="datePublished" content="June 8, 2021"> <a target=""
                                                             href="release/crocodile-tears/index.html">
                                                             <div data-scroll="" data-scroll-repeat=""
                                                                 class="wolf-core-album-disc-has-link wolf-core-album-disc wolf-core-album-disc-align- wolf-core-album-disc-cd wolf-core-album-disc-worn-border-no wolf-core-album-disc-rotate-hover wolf-core-element"
-                                                                style=""><a class="wolf-core-album-disc-link-mask"
-                                                                    href="{{asset('images/real_2-1024x1024.jpg')}}"></a>
+                                                                style="object-fit:cover"><a
+                                                                    class="wolf-core-album-disc-link-mask"
+                                                                    href="{{asset('images/__DSC0017 (102)-NEF_DxO_DeepPRIMEXD.jpg')}}"></a>
                                                                 <div class="wolf-core-album-disc-cover-container">
                                                                     <div class="wolf-core-album-disc-disc-container wow wolf-core-album-disc-reveal"
                                                                         style="transition-delay:0.4s;;">
                                                                         <div class="wolf-core-album-disc-disc-inner">
                                                                             <img loading="lazy" decoding="async"
                                                                                 class="wolf-core-album-disc-disc-img "
-                                                                                src="{{asset('images/real_2-1024x1024.jpg')}}"
+                                                                                src="{{asset('images/__DSC0017 (102)-NEF_DxO_DeepPRIMEXD.jpg')}}"
                                                                                 width="510" height="510" alt="real_2"
                                                                                 title="real_2" />
                                                                             <div class="wolf-core-album-disc-disc-text">
@@ -85,7 +82,7 @@
                                                                         class="wolf-core-album-disc-cover-inner wow wolf-core-album-cover-reveal">
                                                                         <img loading="lazy" decoding="async"
                                                                             class="wolf-core-album-disc-cover-img "
-                                                                            src="{{asset('images/real_2-1024x1024.jpg')}}"
+                                                                            src="{{asset('images/__DSC0017 (102)-NEF_DxO_DeepPRIMEXD.jpg')}}"
                                                                             width="510" height="510" alt="real_2"
                                                                             title="real_2" />
                                                                         <div class="wolf-core-album-disc-cover-border">
@@ -120,125 +117,17 @@
                                         data-id="b128561" data-element_type="widget" data-widget_type="playlist.default">
                                         <div class="elementor-widget-container">
                                             <div class="wolf-core-wolf-playlist-shortcode-container wolf-core-element"
-                                                style=""><wolf-playlist class="wpm-playlist-container"
-                                                    data-playlist-id="397">
-                                                    <div class="wolf-playlist wpm-playlist wpm-theme-light wpm-has-background wpm-regular-playlist"
-                                                        id="wpm-playlist-397" itemscope
-                                                        itemtype="http://schema.org/MusicPlaylist">
-                                                        <meta itemprop="numTracks" content="4">
-                                                        <audio
-                                                            src="https://preview.wolfthemes.store/app/uploads/sites/59/2025/05/20737340_synthwave-hero_by_tuneboy_preview.mp3"
-                                                            controls preload="none" class="wpm-audio"
-                                                            style="width: 100%; height: auto"></audio>
-                                                        <ol class="wpm-tracks" data-simplebar data-track-count="4">
-                                                            <li class="wpm-track" itemprop="track" itemscope
-                                                                itemtype="http://schema.org/MusicRecording">
-                                                                <span class="wpm-track-details wpm-track-cell">
-                                                                    <span class="wpm-track-text">
-                                                                        <span class="wpm-track-title"
-                                                                            itemprop="name">Hero</span>
-                                                                        <span class="wpm-track-artist"
-                                                                            itemprop="byArtist">Tune
-                                                                            Boy</span> </span>
-                                                                </span> <span class="wpm-track-links wpm-track-cell">
-                                                                    <span class="wpm-track-buy-links">
-                                                                        <a title="Buy on iTunes"
-                                                                            class="wpm-track-itunes wpm-track-icon wpm-icon-itunes"
-                                                                            href="#" target="_blank"></a>
-                                                                        <a title="Buy on amazon"
-                                                                            class="wpm-track-amazon wpm-track-icon wpm-icon-amazon"
-                                                                            href="#" target="_blank"></a>
-                                                                        <a title="Buy on YT MUsic"
-                                                                            class="wpm-track-googleplay wpm-track-icon wpm-icon-googleplay"
-                                                                            href="#" target="_blank"></a>
-                                                                        <a title="Buy on Bandcamp"
-                                                                            class="wpm-track-bandcamp wpm-track-icon wpm-icon-bandcamp"
-                                                                            href="#" target="_blank"></a>
-                                                                        <a href="index1ae0.html?add-to-cart=5932"
-                                                                            rel="nofollow" data-quantity="1"
-                                                                            data-product_id="5932"
-                                                                            class="wpm-add-to-cart-button wpm-track-icon product_type_simple add_to_cart_button ajax_add_to_cart"><span
-                                                                                class="wpm-add-to-cart-button-title"
-                                                                                title="Add to cart"></span><i
-                                                                                class="wpm-icon-add-to-cart"></i></a>
-                                                                    </span> </span> <span
-                                                                    class="wpm-track-length wpm-track-cell">1:49</span>
-                                                            </li>
-                                                            <li class="wpm-track" itemprop="track" itemscope
-                                                                itemtype="http://schema.org/MusicRecording">
-                                                                <span class="wpm-track-details wpm-track-cell">
-                                                                    <span class="wpm-track-text">
-                                                                        <span class="wpm-track-title"
-                                                                            itemprop="name">Synthwave
-                                                                            80s</span> <span class="wpm-track-artist"
-                                                                            itemprop="byArtist">Tune
-                                                                            Boy</span> </span>
-                                                                </span> <span class="wpm-track-links wpm-track-cell">
-                                                                    <span class="wpm-track-buy-links">
-                                                                        <a title="Buy on iTunes"
-                                                                            class="wpm-track-itunes wpm-track-icon wpm-icon-itunes"
-                                                                            href="#" target="_blank"></a>
-                                                                        <a title="Buy on amazon"
-                                                                            class="wpm-track-amazon wpm-track-icon wpm-icon-amazon"
-                                                                            href="#" target="_blank"></a>
-                                                                        <a title="Buy on YT MUsic"
-                                                                            class="wpm-track-googleplay wpm-track-icon wpm-icon-googleplay"
-                                                                            href="#" target="_blank"></a>
-                                                                        <a title="Buy on Bandcamp"
-                                                                            class="wpm-track-bandcamp wpm-track-icon wpm-icon-bandcamp"
-                                                                            href="#" target="_blank"></a>
-                                                                        <a href="index1ae0.html?add-to-cart=5932"
-                                                                            rel="nofollow" data-quantity="1"
-                                                                            data-product_id="5932"
-                                                                            class="wpm-add-to-cart-button wpm-track-icon product_type_simple add_to_cart_button ajax_add_to_cart"><span
-                                                                                class="wpm-add-to-cart-button-title"
-                                                                                title="Add to cart"></span><i
-                                                                                class="wpm-icon-add-to-cart"></i></a>
-                                                                    </span> </span> <span
-                                                                    class="wpm-track-length wpm-track-cell">2:30</span>
-                                                            </li>
-                                                            <li class="wpm-track" itemprop="track" itemscope
-                                                                itemtype="http://schema.org/MusicRecording">
-                                                                <span class="wpm-track-details wpm-track-cell">
-                                                                    <span class="wpm-track-text">
-                                                                        <span class="wpm-track-title"
-                                                                            itemprop="name">Synth</span>
-                                                                        <span class="wpm-track-artist"
-                                                                            itemprop="byArtist">DJ
-                                                                            Docent</span>
-                                                                    </span> </span> <span
-                                                                    class="wpm-track-links wpm-track-cell">
-                                                                    <span class="wpm-track-buy-links">
-                                                                        <a title="Free Download"
-                                                                            class="wpm-track-free-dl wpm-track-icon wpm-icon-download"
-                                                                            href="https://preview.wolfthemes.store/app/uploads/sites/59/2025/05/21117062_synthwave_by_djdocent_preview.mp3"
-                                                                            download></a>
-                                                                    </span> </span> <span
-                                                                    class="wpm-track-length wpm-track-cell">2:40</span>
-                                                            </li>
-                                                            <li class="wpm-track" itemprop="track" itemscope
-                                                                itemtype="http://schema.org/MusicRecording">
-                                                                <span class="wpm-track-details wpm-track-cell">
-                                                                    <span class="wpm-track-text">
-                                                                        <span class="wpm-track-title" itemprop="name">Dark
-                                                                            Synthwave</span>
-                                                                        <span class="wpm-track-artist"
-                                                                            itemprop="byArtist">Warp
-                                                                            Masters</span>
-                                                                    </span> </span> <span
-                                                                    class="wpm-track-links wpm-track-cell">
-                                                                    <span class="wpm-track-buy-links">
-                                                                        <a title="Buy now"
-                                                                            class="wpm-track-buy wpm-track-icon wpm-icon-cart"
-                                                                            href="#" target="_blank"></a>
-                                                                    </span> </span> <span
-                                                                    class="wpm-track-length wpm-track-cell">1:46</span>
-                                                            </li>
-                                                        </ol>
-                                                    </div>
-                                                    <script type="application/json"
-                                                        class="wpm-playlist-data">{"skin":"wpm-theme-light","tracks":[{"meta":{"artist":"Tune Boy"},"src":"https:\/\/preview.wolfthemes.store\/app\/uploads\/sites\/59\/2025\/05\/20737340_synthwave-hero_by_tuneboy_preview.mp3","thumb":{"src":"https:\/\/preview.wolfthemes.store\/app\/uploads\/sites\/59\/2025\/05\/Person-with-Graphic-T-Shirt-and-Dogs-150x150.jpg"},"title":"Hero"},{"meta":{"artist":"Tune Boy"},"src":"https:\/\/preview.wolfthemes.store\/app\/uploads\/sites\/59\/2025\/05\/20909220_synthwave-80s_by_tuneboy_preview.mp3","title":"Synthwave 80s"},{"meta":{"artist":"DJ Docent"},"src":"https:\/\/preview.wolfthemes.store\/app\/uploads\/sites\/59\/2025\/05\/21117062_synthwave_by_djdocent_preview.mp3","title":"Synth"},{"meta":{"artist":"Warp Masters"},"src":"https:\/\/preview.wolfthemes.store\/app\/uploads\/sites\/59\/2025\/05\/21151659_80s-dark-synthwave_by_warpmasters_preview.mp3","title":"Dark Synthwave"}],"thumbnail":"https:\/\/preview.wolfthemes.store\/app\/uploads\/sites\/59\/2025\/06\/Live-Music-Energy-300x200.jpg","pauseOtherPlayers":true,"cueFeatures":["cuebackground","cuehistory","cueartwork","cuecurrentdetails","cueprevioustrack","playpause","cuenexttrack","progress","current","duration","cueplaylist","cueplaylisttoggle"]}</script>
-                                                </wolf-playlist></div>
+                                                style="">
+                                                <div class="spotify-player-container"
+                                                    style="text-align:center; margin:50px 0;">
+                                                    <iframe data-testid="embed-iframe" style="border-radius:12px"
+                                                        src="https://open.spotify.com/embed/artist/3psXqmICFFh7nmcmaj5KPb?utm_source=generator&theme=0"
+                                                        width="100%" height="352" frameBorder="0" allowfullscreen=""
+                                                        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+                                                        loading="lazy"></iframe>
+                                                </div>
+
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -255,7 +144,7 @@
 
                                     <div class="elementor-widget-container">
                                         <h2 class="elementor-heading-title elementor-size-default"
-                                            style="color: #fb9df3;font-size:50px;font-family:poppins;font-weight:bold;letter-spacing:1px;">
+                                            style="color: #fb9df3;font-size:50px;font-weight:bold;letter-spacing:8px;">
                                             Journey Preview
                                         </h2>
                                     </div>
@@ -263,12 +152,12 @@
                                     <div class="elementor-element elementor-element-b80c9a9 elementor-widget__width-initial elementor-widget elementor-widget-heading"
                                         data-id="b80c9a9" data-element_type="widget" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default"
-                                                style="color:#ddd;font-family:poppins;font-size:22px;font-weight:400;line-height:1.6;">
+                                            <h2 class="elementor-heading-title elementor-size-default"
+                                                style="color:#ddd;font-size:22px;font-weight:400;line-height:1.6;font-family: cursive;">
                                                 Explore the journey of Siyaahi — a solo artist blending heartfelt lyrics
                                                 with atmospheric sounds. Get insights on upcoming events, new releases, and
                                                 exclusive merch highlights.
-                                            </h3>
+                                            </h2>
                                         </div>
                                     </div>
 
@@ -294,7 +183,7 @@
                                         <div class="elementor-widget-container" style="max-width:900px;margin:auto;">
 
                                             <h2 class="elementor-heading-title elementor-size-default"
-                                                style="color:white;font-size:38px;font-family:poppins;font-weight:500;line-height:1.6;text-align:center;">
+                                                style="color:white;font-size:38px;font-weight:500;line-height:1.6;text-align:center;">
                                                 Siyaahi is a hip-hop artist from Gujarat, known for raw lyricism and
                                                 fearless storytelling.
                                                 Winner of MTV Hustle 4’s OG Hustler Award, he has collaborated with Sunidhi
@@ -307,7 +196,7 @@
                                             <ul
                                                 style="margin-top:40px;padding-left:20px;position:relative;border-left:3px solid #fb9df3;list-style:none;">
                                                 <li
-                                                    style="color:white;font-family:poppins;font-size:20px;line-height:1.8;margin:25px 0;position:relative;padding-left:25px;">
+                                                    style="color:white;font-size:20px;line-height:1.8;margin:25px 0;position:relative;padding-left:25px;">
                                                     <span
                                                         style="position:absolute;left:-10px;top:10px;width:14px;height:14px;background:#fb9df3;border-radius:50%;"></span>
                                                     <strong style="color:#fb9df3;">2000–2018: Origins</strong> — Born in
@@ -317,7 +206,7 @@
                                                     name “Siyaahi” in 2018.
                                                 </li>
                                                 <li
-                                                    style="color:white;font-family:poppins;font-size:20px;line-height:1.8;margin:25px 0;position:relative;padding-left:25px;">
+                                                    style="color:white;font-size:20px;line-height:1.8;margin:25px 0;position:relative;padding-left:25px;">
                                                     <span
                                                         style="position:absolute;left:-10px;top:10px;width:14px;height:14px;background:#fb9df3;border-radius:50%;"></span>
                                                     <strong style="color:#fb9df3;">2019–2021: Community Building</strong> —
@@ -326,7 +215,7 @@
                                                     <em>Screenplay</em> with Dhanji & Acharya.
                                                 </li>
                                                 <li
-                                                    style="color:white;font-family:poppins;font-size:20px;line-height:1.8;margin:25px 0;position:relative;padding-left:25px;">
+                                                    style="color:white;font-size:20px;line-height:1.8;margin:25px 0;position:relative;padding-left:25px;">
                                                     <span
                                                         style="position:absolute;left:-10px;top:10px;width:14px;height:14px;background:#fb9df3;border-radius:50%;"></span>
                                                     <strong style="color:#fb9df3;">2023–2024: Breakthrough</strong> —
@@ -336,7 +225,7 @@
                                                     <em>Escape Routes EP</em>.
                                                 </li>
                                                 <li
-                                                    style="color:white;font-family:poppins;font-size:20px;line-height:1.8;margin:25px 0;position:relative;padding-left:25px;">
+                                                    style="color:white;font-size:20px;line-height:1.8;margin:25px 0;position:relative;padding-left:25px;">
                                                     <span
                                                         style="position:absolute;left:-10px;top:10px;width:14px;height:14px;background:#fb9df3;border-radius:50%;"></span>
                                                     <strong style="color:#fb9df3;">2025: Current Success</strong> — Released
@@ -372,7 +261,7 @@
                                         data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                                         <div class="elementor-widget-container">
                                             <h2 class="elementor-heading-title elementor-size-default"
-                                                style="color: #fb9df3;font-size:50px;font-family:poppins;font-weight:bold">
+                                                style="color: #fb9df3;font-size:50px;font-weight:bold">
                                                 More releases</h2>
                                         </div>
 
@@ -392,7 +281,7 @@
                                             data-id="3a23bc5" data-element_type="widget" data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="wolf-core-button-container wolf-core-element">
-                                                    <a target="_parent" href="discography.html" role="button"
+                                                    <a target="_parent" href="" role="button"
                                                         class="wolf-core-button wolf-core-button-size-md theme-button-primary"
                                                         id="" style=""><span class="wolf-core-button-text">View
                                                             All</span></a>
@@ -423,125 +312,77 @@
                                                         class="display-flex clearfix items wvc-element wolf-core-element entry-grid-loading release-items releases caption-text-align-center caption-valign-middle grid-padding-yes display-grid release-display-grid has-entrance-animation items-entrance-animation-zoom-in module-grid release-module-grid items-thumbnail-size-square layout-overlay release-layout-overlay pagination-none grid no-filtered-content hover-effect-default release-hover-effect-default"
                                                         data-scroll data-scroll-css-progress>
                                                         <article id="post-12636"
-                                                            class="post-12636 release type-release status-publish has-post-thumbnail hentry label-sk-records entry clearfix entry-grid entry-columns-2 entry-release-module-layout-overlay thumbnail-color-tone-dark is-spotify is-youtube has-audio-player entry-release entry-release-grid overlay-tone-dark"
-                                                            data-post-id="12636" itemscope
-                                                            itemtype="https://schema.org/MusicAlbum"
-                                                            data-thumbnail-color-tone="dark">
-                                                            <meta itemprop="publisher" content="index.html">
-                                                            <link itemprop="mainEntityOfPage"
-                                                                content="release/crocodile-tears/index.html">
-                                                            <meta itemprop="name" content="Crocodile Tears">
-                                                            <meta itemprop="image"
-                                                                content="../app/uploads/sites/59/2022/02/real_2-1024x1024.jpg">
-                                                            <meta itemprop="datePublished" content="June 8, 2021">
-                                                            <div class="entry-box">
-                                                                <div class="entry-container"> <a class="entry-link-mask"
-                                                                        target=""
-                                                                        href="release/crocodile-tears/index.html"></a>
-                                                                    <div class="entry-image"
-                                                                        style="background-color:#D08C88;">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            class=" resized-thumbnail "
-                                                                            src="{{asset('preview.wolfthemes.store/app/uploads/sites/59/2022/02/real_2-415x415.jpg')}}"
-                                                                            width="415" height="415" alt="real_2"
-                                                                            title="real_2" />
-                                                                    </div>
-                                                                    <div class="entry-inner">
-                                                                        <div style="background-color:#D08C88;opacity:0.44;"
-                                                                            class="bg-overlay">
-                                                                        </div>
-                                                                        <div style="" class="entry-summary">
-                                                                            <h3 class="entry-title">
-                                                                                <a target=""
-                                                                                    href="release/crocodile-tears/index.html"
-                                                                                    style="">Crocodile
-                                                                                    Tears</a>
-                                                                            </h3>
-                                                                            <div style="" class="entry-taxonomy">
-                                                                            </div> <span class="release-streaming-links">
-                                                                                <span class="release-streaming-link">
-                                                                                    <a target="_blank"
-                                                                                        title="Stream on Spotify"
-                                                                                        class="fab fa-spotify" href="#"></a>
-                                                                                </span> <span
-                                                                                    class="release-streaming-link">
-                                                                                    <a target="_blank"
-                                                                                        title="Stream on Tidal"
-                                                                                        class="wolf-release-tidal"
-                                                                                        href="#"></a>
-                                                                                </span> <span
-                                                                                    class="release-streaming-link">
-                                                                                    <a target="_blank"
-                                                                                        title="Stream on Apple Music"
-                                                                                        class="fab fa-apple" href="#"></a>
-                                                                                </span> <span
-                                                                                    class="release-streaming-link">
-                                                                                    <a target="_blank"
-                                                                                        title="Stream on Deezer"
-                                                                                        class="fab fa-deezer" href="#"></a>
-                                                                                </span> </span>
-                                                                        </div>
+                                                        class="post-12636 release type-release status-publish has-post-thumbnail hentry label-sk-records entry clearfix entry-grid entry-columns-2 entry-release-module-layout-overlay thumbnail-color-tone-dark is-spotify is-youtube has-audio-player entry-release entry-release-grid overlay-tone-dark"
+                                                        data-post-id="12636" itemscope
+                                                        itemtype="https://schema.org/MusicAlbum"
+                                                        data-thumbnail-color-tone="dark">
+                                                        <meta itemprop="publisher" content="index.html">
+                                                        <link itemprop="mainEntityOfPage" content="">
+                                                        <meta itemprop="name" content="Siyaahi Latest 1">
+                                                        <meta itemprop="image" content="path-to-siayahi-latest1-thumbnail.jpg">
+                                                        <meta itemprop="datePublished" content="October 9, 2025">
+                                                        <div class="entry-box">
+                                                            <div class="entry-container">
+                                                                <a class="entry-link-mask" target="" href=""></a>
+                                                                <div class="entry-image" style="background-color:#D08C88;">
+                                                                    <img loading="lazy" decoding="async"
+                                                                        class="resized-thumbnail"
+                                                                        src="{{asset('images/__DSC0017 (112)-NEF_DxO_DeepPRIMEXD.jpg')}}"
+                                                                        width="415" height="415" alt="Siyaahi Latest 1"
+                                                                        title="Siyaahi Latest 1" />
+                                                                </div>
+                                                                <div class="entry-inner">
+                                                                    <div style="background-color:#D08C88;opacity:0.44;" class="bg-overlay"></div>
+                                                                    <div style="" class="entry-summary">
+                                                                        <h3 class="entry-title">
+                                                                            <a target="" href="" style="">Siyaahi Latest 1</a>
+                                                                        </h3>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                        </article>
-                                                        <article id="post-12657"
-                                                            class="post-12657 release type-release status-publish has-post-thumbnail hentry label-sk-records entry clearfix entry-grid entry-columns-2 entry-release-module-layout-overlay thumbnail-color-tone-dark metro-landscape is-spotify is-youtube has-audio-player entry-release entry-release-grid overlay-tone-dark"
-                                                            data-post-id="12657" itemscope
-                                                            itemtype="https://schema.org/MusicAlbum"
-                                                            data-thumbnail-color-tone="dark">
-                                                            <meta itemprop="publisher" content="index.html">
-                                                            <link itemprop="mainEntityOfPage"
-                                                                content="release/blue-moon/index.html">
-                                                            <meta itemprop="name" content="Blue Moon">
-                                                            <meta itemprop="image"
-                                                                content="preview.wolfthemes.store/app/uploads/sites/59/2025/06/Contemplative-Silhouette-in-Yellow-1024x576.jpg">
-                                                            <meta itemprop="datePublished" content="October 10, 2017">
-                                                            <div class="entry-box">
-                                                                <div class="entry-container"> <a class="entry-link-mask"
-                                                                        target="" href="release/blue-moon/index.html"></a>
-                                                                    <div class="entry-image"
-                                                                        style="background-color:#B88E06;">
-                                                                        <img loading="lazy" decoding="async"
-                                                                            class=" resized-thumbnail "
-                                                                            src="preview.wolfthemes.store/app/uploads/sites/59/2025/06/Contemplative-Silhouette-in-Yellow-415x415.jpg"
-                                                                            width="415" height="415"
-                                                                            alt="Contemplative Silhouette in Yellow"
-                                                                            title="Contemplative Silhouette in Yellow" />
-                                                                    </div>
-                                                                    <div class="entry-inner">
-                                                                        <div style="background-color:#B88E06;opacity:0.44;"
-                                                                            class="bg-overlay">
-                                                                        </div>
-                                                                        <div style="" class="entry-summary">
-                                                                            <h3 class="entry-title">
-                                                                                <a target=""
-                                                                                    href="release/blue-moon/index.html"
-                                                                                    style="">Blue
-                                                                                    Moon</a>
-                                                                            </h3>
-                                                                            <div style="" class="entry-taxonomy">
-                                                                            </div> <span class="release-streaming-links">
-                                                                                <span class="release-streaming-link">
-                                                                                    <a target="_blank"
-                                                                                        title="Stream on Spotify"
-                                                                                        class="fab fa-spotify" href="#"></a>
-                                                                                </span> <span
-                                                                                    class="release-streaming-link">
-                                                                                    <a target="_blank"
-                                                                                        title="Stream on Apple Music"
-                                                                                        class="fab fa-apple" href="#"></a>
-                                                                                </span> <span
-                                                                                    class="release-streaming-link">
-                                                                                    <a target="_blank"
-                                                                                        title="Stream on Amazon Music"
-                                                                                        class="fab fa-amazon" href="#"></a>
-                                                                                </span> </span>
-                                                                        </div>
+                                                        </div>
+                                                    </article>
+                                                    
+                                                    <article id="post-12657"
+                                                        class="post-12657 release type-release status-publish has-post-thumbnail hentry label-sk-records entry clearfix entry-grid entry-columns-2 entry-release-module-layout-overlay thumbnail-color-tone-dark metro-landscape is-spotify is-youtube has-audio-player entry-release entry-release-grid overlay-tone-dark"
+                                                        data-post-id="12657" itemscope
+                                                        itemtype="https://schema.org/MusicAlbum"
+                                                        data-thumbnail-color-tone="dark">
+                                                        <meta itemprop="publisher" content="index.html">
+                                                        <link itemprop="mainEntityOfPage" content="release/siyaahi-latest2/index.html">
+                                                        <meta itemprop="name" content="Siyaahi Latest 2">
+                                                        <meta itemprop="image" content="path-to-siayahi-latest2-thumbnail.jpg">
+                                                        <meta itemprop="datePublished" content="October 9, 2025">
+                                                        <div class="entry-box">
+                                                            <div class="entry-container">
+                                                                <a class="entry-link-mask" target="" href="release/siyaahi-latest2/index.html"></a>
+                                                                <div class="entry-image" style="background-color:#B88E06;">
+                                                                    <img loading="lazy" decoding="async"
+                                                                        class="resized-thumbnail"
+                                                                        src="{{asset('images/__DSC0017 (112)-NEF_DxO_DeepPRIMEXD.jpg')}}"
+                                                                        width="415" height="415" alt="Siyaahi Latest 2"
+                                                                        title="Siyaahi Latest 2" />
+                                                                </div>
+                                                                <div class="entry-inner">
+                                                                    <div style="background-color:#B88E06;opacity:0.44;" class="bg-overlay"></div>
+                                                                    <div style="" class="entry-summary">
+                                                                        <h3 class="entry-title">
+                                                                            <a target="" href="release/siyaahi-latest2/index.html" style="">Siyaahi Latest 2</a>
+                                                                        </h3>
+                                                                        <span class="release-streaming-links">
+                                                                            <span class="release-streaming-link">
+                                                                                <a target="_blank" title="Stream on Spotify" class="fab fa-spotify" href="#"></a>
+                                                                            </span>
+                                                                            <span class="release-streaming-link">
+                                                                                <a target="_blank" title="Stream on Apple Music" class="fab fa-apple" href="#"></a>
+                                                                            </span>
+                                                                        </span>
                                                                     </div>
                                                                 </div>
                                                             </div>
-                                                        </article>
+                                                        </div>
+                                                    </article>
+                                                    
                                                     </div>
                                                 </div>
                                             </div>
@@ -585,7 +426,7 @@
                                                                 <div class="entry-image" style="background-color:#A2A2A1;">
                                                                     <img loading="lazy" decoding="async"
                                                                         class=" resized-thumbnail "
-                                                                        src="preview.wolfthemes.store/app/uploads/sites/59/2025/06/Futuristic-Masked-Figure-440x440.jpg"
+                                                                        src="{{asset('images/__DSC0017 (112)-NEF_DxO_DeepPRIMEXD.jpg')}}"
                                                                         width="440" height="440"
                                                                         alt="Futuristic Masked Figure"
                                                                         title="Futuristic Masked Figure" />
@@ -627,7 +468,7 @@
                                                                 <div class="entry-image" style="background-color:#7D5B44;">
                                                                     <img loading="lazy" decoding="async"
                                                                         class=" resized-thumbnail "
-                                                                        src="preview.wolfthemes.store/app/uploads/sites/59/2022/02/real_4-440x440.jpg"
+                                                                        src="{{asset('images/__DSC0017 (112)-NEF_DxO_DeepPRIMEXD.jpg')}}"
                                                                         width="440" height="440" alt="real_4"
                                                                         title="real_4" />
                                                                 </div>
@@ -678,7 +519,7 @@
                                                                 <div class="entry-image" style="background-color:#585B5C;">
                                                                     <img loading="lazy" decoding="async"
                                                                         class=" resized-thumbnail "
-                                                                        src="../app/uploads/sites/59/2025/07/real_3-440x440.jpg"
+                                                                        src="{{asset('images/__DSC0017 (112)-NEF_DxO_DeepPRIMEXD.jpg')}}"
                                                                         width="440" height="440" alt="real_3"
                                                                         title="real_3" />
                                                                 </div>
@@ -731,7 +572,7 @@
                                 <div class="elementor-background-video-container" aria-hidden="true"
                                     style="position:relative; overflow:hidden; padding-top:56.25%;">
                                     <video class="elementor-background-video-hosted" autoplay muted playsinline loop
-                                        src="https://preview.wolfthemes.store/app/uploads/sites/59/2025/06/live-crwd-1486166906_optimized.mp4"
+                                        src="{{asset('videos/RUFUS 2.mp4')}}"
                                         style="width: 1686.22px; height: 73%;">
                                     </video>
                                 </div>
@@ -744,7 +585,7 @@
                                         <div
                                             class="wolf-core-video-opener-container wolf-core-video-opener-align-center wolf-core-element wolf-core-video-opener-caption-position-none wolf-core-video-opener-default">
                                             <div class="wolf-core-video-opener-caption-container">
-                                                <a href="#" data-video-url="https://www.youtube.com/watch?v=6NxO1AmqEts"
+                                                <a href="#" data-video-url="https://www.youtube.com/watch?v=5yxtx7jl8vU&list=RD5yxtx7jl8vU&start_radio=1"
                                                     class="wolf-core-video-opener no-link-style">
                                                     <img decoding="async" class="video-opener-play-img"
                                                         src="https://preview.wolfthemes.store/app/themes/soundkraft/assets/img/t/soundkraft/play.png"
@@ -766,9 +607,9 @@
                             <div class="e-con-inner">
                                 <div class="elementor-widget-container">
                                     <h2 class="elementor-heading-title elementor-size-default" style="text-align: center; color:#fb9df3;
-                                                                            font-family: emoji;
-                                                                            font-size: 54px;
-                                                                            font-weight: bold;">
+                                                                                            font-family: emoji;
+                                                                                            font-size: 54px;
+                                                                                            font-weight: bold;">
                                         Upcoming Shows</h2>
                                 </div>
 
@@ -1050,7 +891,7 @@
 
                                     <div class="elementor-widget-container">
                                         <h2 class="elementor-heading-title elementor-size-default"
-                                            style="color: #fb9df3;font-size:50px;font-family:poppins;font-weight:bold">
+                                            style="color: #fb9df3;font-size:50px;font-weight:bold">
                                             New Merch</h2>
                                     </div>
 

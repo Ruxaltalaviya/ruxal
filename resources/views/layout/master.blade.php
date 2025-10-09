@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="{{ asset('css/custom.css') }}">
+    <link rel="icon" type="image/png" href="{{ asset('images/play.png') }}">
 
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <script>(function (w, d, s, l, i) {
@@ -16,7 +17,7 @@
                 j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
                     '../../www.googletagmanager.com/gtm5445.html?id=' + i + dl; f.parentNode.insertBefore(j, f);
         })(window, document, 'script', 'dataLayer', 'GTM-WSKJDHHW');</script>
-    <title>Soundkraft</title>
+    <title>Siyaahi</title>
     <meta name='robots' content='max-image-preview:large' />
     <style>
         img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -2672,7 +2673,7 @@
             <div class="sidebar-widget-area sidebar-side-panel">
                 <aside id="block-11" class="widget widget_block widget_text">
                     <div class="widget-content">
-                        <p><strong>Soundkraft Studio</strong><br>2456 Edgewood Avenue<br>Brooklyn, NY 11215<br>United
+                        <p><strong>Siyaahi Studio</strong><br>2456 Edgewood Avenue<br>Brooklyn, NY 11215<br>United
                             States</p>
                     </div>
                 </aside>
@@ -2688,7 +2689,7 @@
                         <div class="sp-widget-area-main">
                             <aside id="block-11" class="widget widget_block widget_text">
                                 <div class="widget-content">
-                                    <p><strong>Soundkraft Studio</strong><br>2456 Edgewood Avenue<br>Brooklyn, NY
+                                    <p><strong>Siyaahi Studio</strong><br>2456 Edgewood Avenue<br>Brooklyn, NY
                                         11215<br>United States</p>
                                 </div>
                             </aside>
